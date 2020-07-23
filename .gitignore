@@ -2,6 +2,7 @@
 node_modules/
 unpackage/
 dist/
+my-project/
 
 # local env files
 .env.local
